@@ -2,3 +2,5 @@
 hello world
 
 pat key testing
+
+string manipulation
